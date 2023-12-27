@@ -1,4 +1,4 @@
-# flutter_clone
+# Photo editor application
 
 A new Flutter project.
 
